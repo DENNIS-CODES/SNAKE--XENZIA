@@ -7,6 +7,7 @@ auth.set_access_token('3173088059-cFmQSxrzmClQEfD67V0xONWRsMjpWeLEmt4jAqP','MJhR
 api = tweepy.API(auth, wait_on_rate_limit=True, wait_on_rate_limit_notify=True)
 
 user = api.me()
+#likes and retweets
 
 search = '100DaysOfCode'
 nrTweets = 500
