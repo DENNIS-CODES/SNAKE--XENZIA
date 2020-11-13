@@ -16,7 +16,7 @@ a simple python game that is created so as to perfect (pygame ,objects, classes 
 
 ## Live Demo
 
-[Live Demo Link](https://DENNIS-CODES.github.io/YouTube-Page/index.html)
+[Live Demo Link](Coming soon)
 
 ## Author
 
