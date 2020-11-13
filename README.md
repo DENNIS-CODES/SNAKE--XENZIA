@@ -29,7 +29,8 @@ a simple python game that is created so as to perfect (pygame ,objects, classes 
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are:
+# Contributions, issues, and feature requests are:
+
 ![wel](https://user-images.githubusercontent.com/65861136/99125491-32009600-2615-11eb-8961-b46c215728ab.gif)
 
 - feel free to add more features to the game
